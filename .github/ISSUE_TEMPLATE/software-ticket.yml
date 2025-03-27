@@ -1,0 +1,43 @@
+name: Software Engineering Task
+description: Create a new software ticket.
+title: "SWE: "
+projects: ["aichemy-hub/1"]
+assignees:
+  - dandavies99
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in as much detail as possible below!
+  - type: input
+    id: project
+    attributes:
+      label: Project or repo
+      description: Which software project or repo does this relate to?
+      placeholder: ex. aichemy-hub/aichemy-datalab
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What is the context or background to the issue?
+      placeholder: Current situation, overall goal, expected behaviour...
+    validations:
+      required: false
+  - type: textarea
+    id: needs
+    attributes:
+      label: What needs to be done?
+      description: Detailed description of the task
+      placeholder: Detailed steps required to fix the bug, add the feature...
+    validations:
+      required: true
+  - type: textarea
+    id: definition
+    attributes:
+      label: Definition of done
+      description: How do we know when the task is complete?
+      placeholder: What will be different, what will be fixed, which tests will pass...
+    validations:
+      required: false
