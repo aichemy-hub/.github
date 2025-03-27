@@ -15,8 +15,17 @@ You can read more about the hub's activiites on our --> 🌈🤖🧪✨ [**Homep
 
 ## Active Software Projects
 
+The AIchemy research projects use and develop a wide range of software, which are too numerous to list here. 
 
+Below are the key software and computing infrastructure projects we are activley developing on, which span (or will span) multiple research areas.
 
+| Project                   | Description                         | Links                     | Status                |
+|---------------------------|-------------------------------------|---------------------------|-----------------------|
+| NOMAD NMR                 |  | | |
+| aitomic                   |  | | | 
+| Datalab                   |  | | |
+| Hitro                     |  | | | 
+| Web-BO                    |  | | | 
 
 ## Contact
 
