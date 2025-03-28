@@ -17,7 +17,7 @@ You can read more about the hub's activiites on our --> 🌈🤖🧪✨ [**Homep
 
 The AIchemy research projects use and develop a wide range of software, which are too numerous to list here. 
 
-Below are the key software and computing infrastructure projects we are activley developing on at Imperial College, which span (or will span) multiple research areas.
+Below are the key software and computing infrastructure projects we are activley developing on at Imperial College, some of which span multiple research areas.
 
 | Project                   | Description                         | Links                     | Status                |
 |---------------------------|-------------------------------------|---------------------------|-----------------------|
