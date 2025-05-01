@@ -1,0 +1,23 @@
+name: NOMAD Issue
+description: Create a new NOMAD-related ticket.
+title: "IC-NOMAD: "
+projects: ["aichemy-hub/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in as much detail as possible.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug/feature/feedback in as much detail as possible
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Further details
+      description: Paste logs, screenshots etc.
+    validations:
+      required: false
