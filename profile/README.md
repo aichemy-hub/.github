@@ -25,7 +25,8 @@ Below are the key software and computing infrastructure projects we are activley
 | aitomic                   | Python package for gathering chemical data | https://github.com/aichemy-hub/aitomic (internal) | Currently some functionality calling NOMAD-NMR API | 
 | Datalab                   | Implementation of [Datalab](https://docs.datalab-org.io/) platform at Imperial | http://aichemy-datalab.ch.ic.ac.uk/ (internal) | Dev instance running |
 | Hitro / Korobka           | Closed-loop automated chemistry lab software | https://github.com/alexxost/hitro (internal) | In development | 
-| Web-BO                    | GUI to support Bayesian optimisation | https://suprashare.rcs.ic.ac.uk/web-bo/ (public) https://github.com/ImperialCollegeLondon/webBO/ (public) | Deployed and adding multi-objective functionality | 
+| Web-BO                    | GUI to support Bayesian optimisation | https://suprashare.rcs.ic.ac.uk/web-bo/ (public) https://github.com/ImperialCollegeLondon/webBO/ (public) | Deployed and adding multi-objective functionality |
+| SciCat                    | Dev [SciCat](https://www.scicatproject.org/) instance for data management in the ATLAS facility | http://atlas-scicat.uksouth.cloudapp.azure.com (not yet running) | Setting up server | 
 
 ## Contact
 
