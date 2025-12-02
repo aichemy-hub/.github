@@ -21,11 +21,12 @@ Below are the key software and computing infrastructure projects we are activley
 
 | Project                   | Description                         | Links                     | Status                |
 |---------------------------|-------------------------------------|---------------------------|-----------------------|
-| NOMAD NMR                 | Implementation of [NOMAD-NMR](https://www.nomad-nmr.uk/) platform at Imperial | http://aichemy-nmr.ch.ic.ac.uk (internal)| Trialling small number of research groups |
+| NOMAD NMR                 | Implementation of [NOMAD-NMR](https://www.nomad-nmr.uk/) platform at Imperial | http://aichemy-nmr.ch.ic.ac.uk (internal)| Running in production with ~350 users |
 | aitomic                   | Python package for gathering chemical data | https://github.com/aichemy-hub/aitomic (internal) | Currently some functionality calling NOMAD-NMR API | 
 | Datalab                   | Implementation of [Datalab](https://docs.datalab-org.io/) platform at Imperial | http://aichemy-datalab.ch.ic.ac.uk/ (internal) | Dev instance running |
 | Hitro / Korobka           | Closed-loop automated chemistry lab software | https://github.com/alexxost/hitro (internal) | In development | 
-| Web-BO                    | GUI to support Bayesian optimisation | https://suprashare.rcs.ic.ac.uk/web-bo/ (public) https://github.com/ImperialCollegeLondon/webBO/ (public) http://optix.ch.ic.ac.uk/ (internal) | Deployed and adding multi-objective functionality |
+| Web-BO                    | GUI to support Bayesian optimisation | https://suprashare.rcs.ic.ac.uk/web-bo/ (public) https://github.com/ImperialCollegeLondon/webBO/ (public) http://optix.ch.ic.ac.uk/ (internal) | Deployed with multi-objective functionality |
+| AIchemy Data Pipelines    | Airflow-based data processing pipelines to feed research data from facilities & instruments to data management platforms | [https://github.com/alexxost/hitro](https://github.com/aichemy-hub/aichemy-data-pipelines) (public)  | In development |
 
 ## Contact
 
