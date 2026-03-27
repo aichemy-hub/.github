@@ -13,11 +13,11 @@ The Hub’s focus spans molecules through materials to devices, reflecting the b
 
 You can read more about the hub's activiites on our --> 🌈🤖🧪✨ [**Homepage**](https://www.aichemy-hub.ac.uk) ✨🤖🧪🌈 <--
 
-## Active Software Projects
+## Active Software Projects and Training Resources
 
 The AIchemy research projects use and develop a wide range of software, which are too numerous to list here. 
 
-Below are the key software and computing infrastructure projects we are activley developing on at Imperial College, some of which span multiple research areas.
+Below are the key software and computing infrastructure projects we are activley developing on at Imperial College, as well as training resources relating to software, ML and data.
 
 | Project                   | Description                         | Links                     | Status                |
 |---------------------------|-------------------------------------|---------------------------|-----------------------|
