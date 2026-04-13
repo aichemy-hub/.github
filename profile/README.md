@@ -11,7 +11,7 @@ Our mission is to transform the Chemistry-AI interface through world-leading res
 
 The Hub’s focus spans molecules through materials to devices, reflecting the broad cross-sector need for AI in the UK chemical and chemical-related sectors.
 
-You can read more about the hub's activiites on our --> 🌈🤖🧪✨ [**Homepage**](https://www.aichemy-hub.ac.uk) ✨🤖🧪🌈 <--
+You can read more about the hub's activiites on our --> 🌈🤖🧪✨ [**Homepage**](https://www.aichemy.ac.uk) ✨🤖🧪🌈 <--
 
 ## Active Software Projects and Training Resources
 
